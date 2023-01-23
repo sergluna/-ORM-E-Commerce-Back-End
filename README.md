@@ -10,9 +10,11 @@ Duilding ther back end of an e-commerce site, such as Shopify or WooCommerce, by
 
 ![badmath](https://img.shields.io/badge/Language-JavaScript-blue)
 ![badmath](https://img.shields.io/badge/Registry-npm-ff69b4)
-![badmath](https://img.shields.io/badge/Package-Inquirer-9cf)
 ![badmath](https://img.shields.io/badge/SQL-MySQL-brightgreen)
 ![badmath](https://img.shields.io/badge/ORM-Sequelize-blueviolet)
+![badmath](https://img.shields.io/badge/Enviorment-Node.js-success)
+![badmath](https://img.shields.io/badge/Framework-Express.js-red)
+
 
 ## License
 ![badmath](https://img.shields.io/badge/License-MIT-red)
