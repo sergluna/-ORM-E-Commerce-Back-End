@@ -2,7 +2,7 @@
 Creating an E-Commerce back end with Object-Relational Mapping
 
 ## Description
-Duilding ther back end of an e-commerce site, such as Shopify or WooCommerce, by working with Express.js, Sequalize and MySQL.
+Building the back end of an e-commerce site, such as Shopify or WooCommerce, by working with Express.js, Sequelize and MySQL.
 
 ---
 
